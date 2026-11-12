@@ -51,3 +51,19 @@ Classifies the image using the Backpropagation method to identify the type of be
 Returns the application to its initial screen, allowing users to upload and process a new image.
 Overall, this application works through several stages: image input, pre-processing, segmentation, shape, color, and texture feature extraction, followed by classification to identify the type of bean.
 
+## Dataset
+
+The image dataset used in this research can be downloaded through the following link:
+
+[Download Dataset](https://www.kaggle.com/datasets/nurulazizahacha/seed-image-dataset-with-similar-objects)
+
+The dataset consists of 750 images from five types of beans: chickpeas, ginkgo beans, sword beans, pistachios, and cowpeas.
+
+**Note:** The uploaded dataset has not been divided into training and testing data. If you want to test or reproduce this research, please manually split the dataset on your local device using one of the following ratios:
+
+- 80:20 (80% training data and 20% testing data)
+- 70:30 (70% training data and 30% testing data)
+- 60:40 (60% training data and 40% testing data)
+
+Please make sure that the images are properly organized into training and testing folders before running the classification process.
+
