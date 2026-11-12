@@ -77,3 +77,7 @@ Note: The folder path above is an example from the original researcher's device.
 
 
 ujild.m uses images of bean types outside the five main classes to evaluate the system's ability to detect and classify unknown objects as "Unknown."
+
+
+Development Environment
+This project was developed and tested using MATLAB R2021.
