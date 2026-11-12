@@ -74,3 +74,6 @@ For example:
 image_folder = 'D:\backup data skripsi\programskripsi\datalatih80';
 
 Note: The folder path above is an example from the original researcher's device. You must change it to match your own folder location. Make sure the folder contains the test images (.jpg) before running the code.
+
+
+ujild.m uses images of bean types outside the five main classes to evaluate the system's ability to detect and classify unknown objects as "Unknown."
