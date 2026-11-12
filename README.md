@@ -71,7 +71,6 @@ Important: Test Image Folder Location
 Before running the MATLAB code, make sure to adjust the image folder path according to the location where your test images are stored on your computer.
 
 For example:
-image_folder = 'D:\programkacang.menyempurnakan\datalatih80';
-
+image_folder = 'D:\backup data skripsi\programskripsi\datalatih80';
 
 Note: The folder path above is an example from the original researcher's device. You must change it to match your own folder location. Make sure the folder contains the test images (.jpg) before running the code.
