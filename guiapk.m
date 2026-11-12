@@ -785,7 +785,7 @@ if isfield(handles, 'fitur_area') && isfield(handles, 'fitur_perimeter') && ...
             case 2
                 kelas = 'Kacang Ginkgo';
             case 3
-                kelas = 'Kacang Koro Pedang';
+                kelas = 'Kacang Koro Binong';
             case 4
                 kelas = 'Kacang Pistachio';
             case 5
